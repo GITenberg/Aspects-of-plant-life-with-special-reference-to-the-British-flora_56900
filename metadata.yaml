@@ -1,5 +1,8 @@
 _repo: Aspects-of-plant-life-with-special-reference-to-the-British-flora_56900
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56900-h/images/cover.jpg
 creator:
   author:
     agent_name: Praeger, Robert Lloyd
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8598
     wikipedia: http://en.wikipedia.org/wiki/Robert_Lloyd_Praeger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56900#Aspects-of-plant-life-with-special-reference-to-the-British-flora
 gutenberg_issued: '2018-04-02'
 gutenberg_type: Text
 identifiers:
